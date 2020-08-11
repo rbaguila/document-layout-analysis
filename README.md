@@ -11,4 +11,4 @@ The application is a simple document layout analysis using Python-OpenCV. Using 
 3. The paragraphs with margins
 
 
-Here is a blog for a short description: http://warkyou.blogspot.com/2016/03/document-layout-analysis.html
+Here is a blog for a short description: https://warkyou-code.blogspot.com/2016/03/document-layout-analysis.html
